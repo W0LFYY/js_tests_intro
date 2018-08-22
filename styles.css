@@ -1,0 +1,14 @@
+#tests {
+    display:flex;
+    justify-content:space-around;
+}
+
+#passed {
+    color:green;
+}
+
+#failed {
+    color:red;
+}
+/*rgb can go from 0 to 255 in all categories
+hex colors #rr gg bb*/
